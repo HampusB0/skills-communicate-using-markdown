@@ -5,3 +5,8 @@ As stated above, the world is quite literaly on fire. This really is not the ide
 ###### Puni header, not even worth discussing at any lenght at all. 
 
 Is this supposed to be the commit message i'm supposed to write? If so, here is the message: A great header and message has been written and added to this md file. Not at all redundant, very important.
+
+Text is no longer at the bottom, sad. Anyways, here is a picture instead.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+I hope you liked it.
