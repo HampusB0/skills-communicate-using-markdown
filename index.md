@@ -24,3 +24,10 @@ for(int i=0; i < 10; i++){
 }
 
 ```
+Amazing checklist below
+- [ ] Be good at github
+- [X] Start learning github
+- [ ] Stop learning github
+- [ ] Eat lunch
+- [X] Wake up
+
