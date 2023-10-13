@@ -10,3 +10,17 @@ Text is no longer at the bottom, sad. Anyways, here is a picture instead.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 I hope you liked it.
+
+Here are code snippets, should be fixed:
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Other, please work:
+``` java
+String mystr = "Hello everyone! I shall start counting!";
+for(int i=0; i < 10; i++){
+  System.out.println("This number is: " + i);
+}
+
+```
